@@ -1,0 +1,51 @@
+main .container {
+    margin: 0 auto;
+    max-width: 1000px
+}
+
+header .container {
+    margin: 0 auto;
+    background-color: #009688;
+    max-width: 400px;
+    max-height: 250px;
+        
+}
+
+.test {
+    text-align: center;
+    color: blue;　　　 
+}
+
+.place {
+    text-align: center;
+}
+
+.now {
+    margin: 0 auto;
+    margin-bottom:15px;
+    background-color: rgb(172, 120, 120);
+    border: 2px solid #ccc;
+    min-height: 250px;
+    text-align: center;
+    max-width: 300px;
+}
+
+.box {
+    height: 250px;             
+    width: 250px;               
+    margin:  10px;              
+    background-color: #afeeee;
+    text-align: center;              
+}
+.box_container{
+    margin: 0 auto;
+    max-width: 1000px
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+html {
+    
+    background-color: rgba(0, 164, 255, 0.48);
+  }
+
